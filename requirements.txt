@@ -1,0 +1,4 @@
+# Python dependencies required by the script
+pyyaml
+yt-dlp
+deepgram-sdk
